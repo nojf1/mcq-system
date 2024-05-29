@@ -1,0 +1,11 @@
+Question,Option1,Option2,Option3,Option4,Answer1,Answer2,Answer3,Answer4
+What does HTML stand for?,Hyper Text Markup Language,Home Tool Markup Language,Hyperlinks and Text Markup Language,Home Text Markup Language,TRUE,FALSE,FALSE,FALSE
+Who is making the Web standards?,Mozilla,Google,The World Wide Web Consortium,Microsoft,FALSE,FALSE,TRUE,FALSE
+Choose the correct HTML element for the largest heading:,<h1>,<head>,<h6>,<heading>,TRUE,FALSE,FALSE,FALSE
+What is the correct HTML element for inserting a line break?,<br>,<lb>,<break>,<linebreak>,TRUE,FALSE,FALSE,FALSE
+What is the correct HTML for adding a background color?,<body bg="yellow">,<body style="background-color:yellow;">,<background>yellow</background>,<body bgcolor="yellow">,FALSE,TRUE,FALSE,FALSE
+Choose the correct HTML element to define important text,<strong>,<i>,<b>,<important>,FALSE,FALSE,TRUE,FALSE
+Choose the correct HTML element to define emphasized text,<italic>,<em>,<i>,<italicize>,FALSE,TRUE,FALSE,FALSE
+Which character is used to indicate an end tag?,<,/,*,!,FALSE,TRUE,FALSE,FALSE
+How can you make a numbered list?,<list>,<ol>,<ul>,<dl>,FALSE,TRUE,FALSE,FALSE
+How can you make a bulleted list?,<list>,<ol>,<ul>,<dl>,FALSE,FALSE,TRUE,FALSE

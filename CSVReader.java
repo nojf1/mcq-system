@@ -13,7 +13,6 @@ public class CSVReader {
 
         try (BufferedReader br = new BufferedReader(new FileReader(fileName))) {
             while ((line = br.readLine()) != null) {
-                // Use comma as separator
                 String[] row = line.split(csvSplitBy);
                 data.add(row);
             }

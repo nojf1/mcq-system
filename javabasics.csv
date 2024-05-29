@@ -1,0 +1,11 @@
+Question,Option1,Option2,Option3,Option4,Answer1,Answer2,Answer3,Answer4
+Which company originally developed Java?,Microsoft,Sun Microsystems,Google,Facebook,FALSE,TRUE,FALSE,FALSE
+What is the extension of Java bytecode files?,.java,.class,.js,.exe,FALSE,TRUE,FALSE,FALSE
+Which method is the entry point of a Java application?,main(),start(),init(),run(),TRUE,FALSE,FALSE,FALSE
+Which keyword is used to create a class in Java?,create,class,new,object,FALSE,TRUE,FALSE,FALSE
+What is the size of an int variable in Java?,4 bytes,8 bytes,2 bytes,1 byte,TRUE,FALSE,FALSE,FALSE
+Which of these is not a Java keyword?,static,void,private,public,FALSE,FALSE,FALSE,FALSE
+Which class is used to handle exceptions in Java?,Error,Exception,Throwable,Runtime,FALSE,TRUE,FALSE,FALSE
+What is the default value of a boolean variable in Java?,true,false,null,0,FALSE,TRUE,FALSE,FALSE
+Which package contains the Collections framework?,java.util,java.lang,java.io,java.net,TRUE,FALSE,FALSE,FALSE
+Which interface provides capability to store objects as key-value pairs?,List,Map,Set,Queue,FALSE,TRUE,FALSE,FALSE

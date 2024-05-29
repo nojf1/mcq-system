@@ -1,0 +1,11 @@
+Question,Option1,Option2,Option3,Option4,Answer1,Answer2,Answer3,Answer4
+What is the correct file extension for Python files?,.pt,.py,.pyt,.pyth,FALSE,TRUE,FALSE,FALSE
+How do you create a variable with the numeric value 5?,x = 5,x == 5,x : 5,x <- 5,TRUE,FALSE,FALSE,FALSE
+What is the correct syntax to output "Hello World" in Python?,print("Hello World"),echo("Hello World"),p("Hello World"),printf("Hello World"),TRUE,FALSE,FALSE,FALSE
+Which method can be used to remove any whitespace from the beginning or the end of a string?,strip(),trim(),len(),whitespace(),TRUE,FALSE,FALSE,FALSE
+Which method can be used to return a string in upper case letters?,upper(),uppercase(),toUpperCase(),toupper(),TRUE,FALSE,FALSE,FALSE
+Which operator is used to multiply numbers?,*,**,/,//,TRUE,FALSE,FALSE,FALSE
+Which collection is ordered, changeable, and allows duplicate members?,Tuple,List,Set,Dictionary,FALSE,TRUE,FALSE,FALSE
+Which method can be used to return the length of a list?,len(),length(),count(),size(),TRUE,FALSE,FALSE,FALSE
+How do you start writing a function in Python?,def myFunction():,function myFunction(),create myFunction(),def myFunction[],TRUE,FALSE,FALSE,FALSE
+How do you insert COMMENTS in Python?,#This is a comment,//This is a comment,/*This is a comment*/,<--This is a comment-->,TRUE,FALSE,FALSE,FALSE
